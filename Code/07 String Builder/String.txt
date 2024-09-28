@@ -1,0 +1,10 @@
+String Pool :- String Pool is a seprate memory structure inside the heap.
+Strings are immutable in java.
+How to create the different object of same value ?
+--> Using new keyword 
+--> It will creating the value outside the pool but in heap
+Comparision String :
+--> When you need only check value then used ".equals()".
+--> When you need to check reference then used "==".
+Print stream :- 
+"out" is variable of type "printStream" and there is method is "println".
